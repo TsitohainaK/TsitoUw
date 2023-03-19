@@ -7,10 +7,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Musicc](https://musicc-front.vercel.app/welcome)
-- 
+
 - 🌱 I’m currently learning **Wasm**, **GraphQl**, **Flutter**
-- 
+ 
 - 📫 How to reach me: tsitohainanirinarak2@gmail.com
+
 ---
 
 [![card](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&include_private=True&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&include_private=True&theme=dark)
