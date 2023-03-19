@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tsitohaina RAKOTOARIMANANA</h1>
-<h3 align="center">A developer from Madagascar</h3>
+<h3 align="center">A dedicated developer from Madagascar who is always looking for ways to improve my coding skillsr</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw" alt="TsitoUw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red" alt="TsitoUw" /> </p>
 
 - 🔭 I’m currently working on [Musicc](https://musicc-front.vercel.app/welcome)
 
