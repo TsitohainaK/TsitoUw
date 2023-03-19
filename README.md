@@ -16,6 +16,7 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="mariadb" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="mariadb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="mariadb" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/typescript/typescript-icon.svg" alt="mariadb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mariadb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mariadb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mariadb" width="40" height="40"/>
