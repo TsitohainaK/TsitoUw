@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tsitohainanirinarak2@gmail.com
 ---
 
-[![card](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&group=other&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&group=other&theme=dark)
-[![card](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&theme=dark)
+[![card](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&include_private=True&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&include_private=True&theme=dark)
+[![card](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&include_private=True&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&include_private=True&theme=dark)
 
