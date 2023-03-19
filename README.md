@@ -20,6 +20,7 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mariadb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mariadb" width="40" height="40"/>
 
+ 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
@@ -33,6 +34,8 @@
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
 
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TsitoUw&bg=aaa" alt="skills" height="350px" width="100%"/>
+ 
 <a href="https://www.githubtrends.io/wrapped/TsitoUw" >
 <img src="https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&theme=dark&include_private=True" />
 </a>
