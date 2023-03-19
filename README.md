@@ -6,8 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Musicc](https://musicc-front.vercel.app/)
+- 🔭 I’m currently working on [Musicc](https://musicc-front.vercel.app/welcome)
+- 
 - 🌱 I’m currently learning **Wasm**, **GraphQl**, **Flutter**
+- 
 - 📫 How to reach me: tsitohainanirinarak2@gmail.com
 ---
 
