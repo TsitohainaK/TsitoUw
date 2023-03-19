@@ -64,6 +64,15 @@
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff)
 
-[![card](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&include_private=True&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&include_private=True&theme=dark)
-[![card](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&include_private=True&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&include_private=True&theme=dark)
+
+
+<a href="https://www.githubtrends.io/wrapped/TsitoUw" >
+<img src="https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&theme=dark&include_private=True" />
+</a>
+</div>
+<a href="https://www.githubtrends.io/wrapped/TsitoUw" >
+<img src="https://api.githubtrends.io/user/svg/TsitoUw/langs?time_range=one_year&theme=dark&include_private=True" />
+</a>
+</div>
+
 
