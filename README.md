@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Title](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&group=other&theme=dark)](https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&group=other&theme=dark)
 
-https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&group=other&theme=dark
