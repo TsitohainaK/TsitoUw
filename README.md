@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tsitohaina RAKOTOARIMANANA</h1>
 <h3 align="center">A dedicated developer from Madagascar who is always looking for ways to improve my coding skills</h3>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TsitoUw&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red" alt="TsitoUw" /> </p>
 
@@ -33,8 +36,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-
-
+  
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TsitoUw&bg=aaa" alt="skills" height="350px" width="100%"/>
  
 <a href="https://www.githubtrends.io/wrapped/TsitoUw" >
