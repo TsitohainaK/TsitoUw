@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tsitohaina RAKOTOARIMANANA</h1>
-<h3 align="center">A dedicated developer from Madagascar who is always looking for ways to improve my coding skillsr</h3>
+<h3 align="center">A dedicated developer from Madagascar who is always looking for ways to improve my coding skills</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red" alt="TsitoUw" /> </p>
