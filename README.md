@@ -37,8 +37,6 @@
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
   
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TsitoUw&bg=aaa" alt="skills" height="350px" width="100%"/>
- 
 <a href="https://www.githubtrends.io/wrapped/TsitoUw" >
 <img src="https://api.githubtrends.io/user/svg/TsitoUw/repos?time_range=one_year&theme=dark&include_private=True" />
 </a>
