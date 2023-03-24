@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Musicc](https://musicc-front.vercel.app/welcome)
 
-- 🌱 I’m currently learning **Wasm**, **GraphQl**, **Flutter**
+- 🌱 I’m currently learning **Wasm**, **GraphQl**, **Tauri**
  
 - 📫 How to reach me: tsitohainanirinarak2@gmail.com
 
