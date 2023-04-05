@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Wasm**, **GraphQl**, **Tauri**
  
-- 📫 How to reach me: tsitohainanirinarak2@gmail.com
+- 📫 How to reach me: tsitohaina.pro@gmail.com
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
