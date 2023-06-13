@@ -13,6 +13,10 @@
  
 - 📫 How to reach me: tsitohaina.pro@gmail.com
 
+If out of the blue you want to buy me some coffee :D
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tsitouw)
+
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
