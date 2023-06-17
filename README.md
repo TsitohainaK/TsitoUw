@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red" alt="TsitoUw" /> </p>
 
-- 🔭 I’m currently working on [Musicc](https://musicc-front.vercel.app/welcome)
+- 🔭 I’m currently working on a [2D game framework](https://github.com/TsitoUw/stillThatGameFrameworkButOOP)
 
 - 🌱 I’m currently learning **Wasm**, **GraphQl**, **Tauri**
  
