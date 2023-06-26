@@ -5,7 +5,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=TsitoUw&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red" alt="TsitoUw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red&style=for-the-badge" alt="TsitoUw" /> </p>
 
 - 🔭 I’m currently working on a [2D game framework](https://github.com/TsitoUw/stillThatGameFrameworkButOOP)
 
