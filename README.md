@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tsitohaina Kantonirina</h1>
-<h3 align="center">A dedicated developer from Madagascar who is always looking for ways to improve my coding skills</h3>
+<h3 align="center">:D</h3>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=TsitoUw&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red&style=for-the-badge" alt="TsitoUw" /> </p>
-
-- 🔭 I’m currently working on a [2D game framework](https://github.com/TsitoUw/stillThatGameFrameworkButOOP)
-
-- 🌱 I’m currently learning **Wasm**, **GraphQl**, **Tauri**
- 
-- 📫 How to reach me: tsitohaina.pro@gmail.com
 
 If out of the blue you want to buy me some coffee :D
 
