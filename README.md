@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TsitoUw&color=red&style=for-the-badge" alt="TsitoUw" /> </p>
 
-If out of the blue you want to buy me some coffee :D
+If out of the blue you want to buy me some coffee :D (I love coffee)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tsitouw)
 
